@@ -8,7 +8,7 @@ Pnar (ISO 639-3: pbv; Austroasiatic) is a language spoken in India with some int
 
 # Acknowledgments
 
-The conversion has been done primarily by Hiram Ring at University of Zurich, but interested parties are welcome to contribute.
+The conversion has been done primarily by Hiram Ring at the University of Zurich, but interested parties are welcome to contribute.
 
 ## References
 
@@ -28,6 +28,6 @@ Features: manual native
 Relations: manual native
 Contributors: Ring, Hiram
 Contributing: elsewhere
-Contact: hiram.ring@uzh.ch
+Contact: hiram D*T ring at uzh.ch
 ===============================================================================
 </pre>
