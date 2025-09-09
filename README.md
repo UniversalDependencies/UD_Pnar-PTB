@@ -20,6 +20,7 @@ The conversion has been done primarily by Hiram Ring at the University of Zurich
 Data available since: UD v2.2
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: grammar-examples spoken
 Lemmas: manual native
 UPOS: manual native
