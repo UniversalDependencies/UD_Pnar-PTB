@@ -6,9 +6,11 @@ UD Pnar-PTB is a conversion from the Ring (2017) dataset ([doi:10.21979/N9/KVFGB
 
 Pnar (ISO 639-3: pbv; Austroasiatic) is a language spoken in India with some interesting typological features, namely VSO order, nominal gender, and classifiers.
 
+This treebank contains 2,183 sentences.
+
 # Acknowledgments
 
-The conversion has been done primarily by Hiram Ring at the University of Zurich, but interested parties are welcome to contribute.
+The conversion has been done primarily by Hiram Ring, but interested parties are welcome to contribute.
 
 ## References
 
@@ -29,6 +31,6 @@ Features: manual native
 Relations: manual native
 Contributors: Ring, Hiram
 Contributing: elsewhere
-Contact: hiram D*T ring at uzh.ch
+Contact: hiram D*T ring at ntu.edu.sg
 ===============================================================================
 </pre>
